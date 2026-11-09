@@ -1,3 +1,8 @@
+> **⚠️ Deprecated. This repository has moved.**
+> GoldSim now lives in the team website monorepo: https://github.com/Team-6220/team6220.org/tree/main/apps/goldsim
+> Its full commit history was imported there. Open new issues and pull requests in
+> [Team-6220/team6220.org](https://github.com/Team-6220/team6220.org) (label `APP: GOLDSIM`). This repository is read-only.
+
 # GoldSim
 
 An open-source, browser-based 2D FRC strategy and design simulator by **FRC Team 6220**.
